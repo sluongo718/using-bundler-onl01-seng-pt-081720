@@ -10,6 +10,7 @@ gem "pry"
 end
 
 group :test do 
-  
+  rspec
+
 end 
 
